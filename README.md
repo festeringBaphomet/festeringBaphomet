@@ -1,16 +1,20 @@
-## Hi there 👋
+<p align="center"> ˖◛⁺⑅♡  CHECK OUT THE STRAWPAGES !!!
+<br/>
 
-<!--
-**festeringBaphomet/festeringBaphomet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://festeringbaphomet.straw.page/">MAIN</a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://holyroller.straw.page/">EVAN</a>
+</p>
+<p align="center">
+  <a href="https://dollbone.straw.page/">DOLL</a>
+</p>
+<p align="center">
+  <a href="https://s0methingnew.straw.page/">KILLS</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+yay
